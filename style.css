@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0 0 1em 0;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #414142;
+    font-family: Arial;
+}
+.main {
+    position: absolute;
+    width: 100%;
+}
+#logo {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+form {
+    max-width: 400px;
+    margin: auto;
+}
